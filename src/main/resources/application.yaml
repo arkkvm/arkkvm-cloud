@@ -1,0 +1,10 @@
+server:
+  port: 6612
+
+spring:
+  main:
+    allow-circular-references: true
+  application:
+    name: ArkKVM
+  profiles:
+    active: ${ENV_MODE:}
