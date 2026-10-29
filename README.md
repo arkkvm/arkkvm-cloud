@@ -1,5 +1,16 @@
 # Ark KVM Cloud API
 
+> [!WARNING]
+> **This project is deprecated and no longer maintained.**
+>
+> ArkKVM Cloud has been rewritten in Go. The new codebase is an independent
+> project — it is not a fork of this repository — and now lives at:
+>
+> **[arkkvm/arkkvm-cloud-go](https://github.com/arkkvm/arkkvm-cloud-go)**
+>
+> No further changes, fixes, or releases will be made here. This repository is
+> kept only for historical reference.
+
 ## Requirements
 
 - Java: 8
